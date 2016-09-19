@@ -34,7 +34,7 @@ nav a{
 	display: block;
 	float: left;
 }
-.board {
+#board {
 	height: 90%;
 	width: 50%;
 	display: inline-block;
